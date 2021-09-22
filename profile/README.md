@@ -6,6 +6,8 @@ Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s
 
 ## 1. IMPROVE PUBLIC BROWSE/SEARCH
 
+![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/image1.png)
+
 **Description:** Search for projects, playlists and activities having indexing approved and public visibility
 
 **Demo:** https://www.openlearnx.org/search/
@@ -23,6 +25,8 @@ Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s
 **Source Code:** https://github.com/ActiveLearningStudio/ActiveLearningStudio-API/tree/curriki-open
 
 ## 2. BUILD NEW H5P ACTIVITIES
+
+![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/image1.png)
 
 **Demo:** https://www.currikistudio.org/activity/183/shared
 
