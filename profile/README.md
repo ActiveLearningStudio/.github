@@ -6,7 +6,7 @@ Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s
 
 ## 1. IMPROVE PUBLIC BROWSE/SEARCH
 
-![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/image1.png)
+![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/image2.png)
 
 **Description:** Search for projects, playlists and activities having indexing approved and public visibility
 
