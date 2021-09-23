@@ -63,6 +63,9 @@ https://github.com/ActiveLearningStudio/h5p-phet-atomic-interactions
 
 https://github.com/ActiveLearningStudio/h5p-phet-balancing-act
 
+
+✨ **[Contributing to Curriki](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+
 <!--
 **NextGenOER/NextGenOER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
