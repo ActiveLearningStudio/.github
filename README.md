@@ -47,6 +47,12 @@ https://h5p.org/developers
 
 https://h5p.org/library-development
 
+https://github.com/adlnet/xAPI-Spec
+
+What is the Experience API? https://xapi.com/overview/?utm_source=google&utm_medium=natural_search
+
+https://github.com/adlnet/xAPI-Spec
+
 **Setup Instructions:**
 
 https://h5p.org/development-environment
