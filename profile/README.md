@@ -41,9 +41,11 @@ PhET Interactive Simulations, a project at the University of Colorado Boulder, i
 
 We are aiming to create H5P content types for following 3 PhET Interactive Simulations:
 
-- Bending Light: https://phet.colorado.edu/en/simulations/bending-light
-- Atomic Interactions: https://phet.colorado.edu/en/simulations/atomic-interactions
-- Balancing Act: https://phet.colorado.edu/en/simulations/balancing-act
+- Bending Light - https://phet.colorado.edu/en/simulations/bending-light
+- Atomic Interactions - https://phet.colorado.edu/en/simulations/atomic-interactions
+- Balancing Act - https://phet.colorado.edu/en/simulations/balancing-act
+- Collision Lab - https://phet.colorado.edu/en/simulations/collision-lab
+- Circuit Construction Kit: DC - https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc
 
 **Developer guide:**
 
@@ -72,6 +74,10 @@ https://github.com/ActiveLearningStudio/h5p-phet-bending-light
 https://github.com/ActiveLearningStudio/h5p-phet-atomic-interactions
 
 https://github.com/ActiveLearningStudio/h5p-phet-balancing-act
+
+https://github.com/ActiveLearningStudio/h5p-phet-collision-lab
+
+https://github.com/ActiveLearningStudio/h5p-phet-circuit-construction-kit-dc
 
 
 ✨ **[Contributing to Curriki](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
