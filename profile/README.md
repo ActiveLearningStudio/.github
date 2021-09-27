@@ -22,7 +22,11 @@ Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s
 
 **Setup URL:** https://www.openlearnx.org/search/
 
-**Source Code:** https://github.com/ActiveLearningStudio/ActiveLearningStudio-API/tree/curriki-open
+**Source Code:** 
+
+Backend API - https://github.com/ActiveLearningStudio/ActiveLearningStudio-API/tree/curriki-open
+
+Frontend - https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-client/tree/feature/cc_netlify
 
 ## 2. BUILD NEW H5P ACTIVITIES
 
