@@ -39,7 +39,7 @@ Frontend - https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-cl
 **Description:**
 PhET Interactive Simulations, a project at the University of Colorado Boulder, is a non-profit open educational resource project that creates and hosts explorable explanations. On the other hand, H5P makes it easy to create interactive content by providing a range of content types such as Interactive Video, Course Presentation and Interactive Book etc. 
 
-We are aiming to create H5P content types for following 3 PhET Interactive Simulations:
+We are aiming to create H5P content types for following 5 PhET Interactive Simulations:
 
 - Bending Light - https://phet.colorado.edu/en/simulations/bending-light
 - Atomic Interactions - https://phet.colorado.edu/en/simulations/atomic-interactions
