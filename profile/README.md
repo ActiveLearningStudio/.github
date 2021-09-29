@@ -2,6 +2,10 @@
 
 Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s Team 19 project. The project leverages open source technology developed by the non-profit edtech Curriki to enable the authoring, distribution and delivery of interactive open educational resources (OER) across the globe.
 
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects)** ✨
+
+✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+
 # Projects
 
 ## 1. IMPROVE PUBLIC BROWSE/SEARCH
@@ -27,6 +31,11 @@ Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s
 Backend API - https://github.com/ActiveLearningStudio/ActiveLearningStudio-API/tree/curriki-open
 
 Frontend - https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-client/tree/feature/cc_netlify
+
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects)** ✨
+
+✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+
 
 ## 2. BUILD NEW H5P ACTIVITIES
 
@@ -80,7 +89,10 @@ https://github.com/ActiveLearningStudio/h5p-phet-collision-lab
 https://github.com/ActiveLearningStudio/h5p-phet-circuit-construction-kit-dc
 
 
-✨ **[Contributing to Curriki](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects)** ✨
+
+✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+
 
 <!--
 **NextGenOER/NextGenOER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
