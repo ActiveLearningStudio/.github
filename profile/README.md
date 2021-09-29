@@ -2,7 +2,7 @@
 
 Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s Team 19 project. The project leverages open source technology developed by the non-profit edtech Curriki to enable the authoring, distribution and delivery of interactive open educational resources (OER) across the globe.
 
-✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects)** ✨
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects/3)** ✨
 
 ✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
 
@@ -32,7 +32,7 @@ Backend API - https://github.com/ActiveLearningStudio/ActiveLearningStudio-API/t
 
 Frontend - https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-client/tree/feature/cc_netlify
 
-✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects)** ✨
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects/3)** ✨
 
 ✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
 
@@ -89,7 +89,7 @@ https://github.com/ActiveLearningStudio/h5p-phet-collision-lab
 https://github.com/ActiveLearningStudio/h5p-phet-circuit-construction-kit-dc
 
 
-✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects)** ✨
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects/3)** ✨
 
 ✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
 
