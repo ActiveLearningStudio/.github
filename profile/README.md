@@ -93,6 +93,33 @@ https://github.com/ActiveLearningStudio/h5p-phet-circuit-construction-kit-dc
 
 ✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
 
+## 3. RUN H5P ACTIVITIES ON MOBILE
+
+![Screenshot_2021-09-30-14-57-08-565_com example leo](https://user-images.githubusercontent.com/7965442/135426810-ce122762-857a-4f75-b6ae-3eeab9c00f26.jpg)
+
+
+**Screencast:** https://drive.google.com/file/d/1_1xv5c8ALVP3hmURoJxJDi6SwFQnArD8/view
+
+**Technology Stack:** CORDOVA / HTML / CSS / JAVASCRIPT / LARAVEL / MOODLE
+
+**Description:**
+
+The purpose of this project is to run the H5P activitites on the mobile in offline/online mode.
+
+We are aiming to run the H5P content in the offline mode.
+
+**Developer guide:**
+
+https://cordova.apache.org/docs/en/latest/
+
+**Setup Instructions:**
+
+https://github.com/ActiveLearningStudio/cordova-h5p-standalone/blob/main/README.md
+
+**Github repositories:**
+
+https://github.com/ActiveLearningStudio/cordova-h5p-standalone/tree/offline-mode
+
 
 <!--
 **NextGenOER/NextGenOER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
