@@ -2,11 +2,15 @@
 
 Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s Team 19 project. The project leverages open source technology developed by the non-profit edtech Curriki to enable the authoring, distribution and delivery of interactive open educational resources (OER) across the globe.
 
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects/3)** ✨
+
+✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+
 # Projects
 
 ## 1. IMPROVE PUBLIC BROWSE/SEARCH
 
-![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/image2.png)
+![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/openlearnx.jpg)
 
 **Description:** Search for projects, playlists and activities having indexing approved and public visibility
 
@@ -28,7 +32,42 @@ Backend API - https://github.com/ActiveLearningStudio/ActiveLearningStudio-API/t
 
 Frontend - https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-client/tree/feature/cc_netlify
 
-## 2. BUILD NEW H5P ACTIVITIES
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects/3)** ✨
+
+✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+
+## 2. RUN H5P ACTIVITIES ON MOBILE
+
+![Screenshot_2021-09-30-14-57-08-565_com example leo](https://user-images.githubusercontent.com/7965442/135426810-ce122762-857a-4f75-b6ae-3eeab9c00f26.jpg)
+
+
+**Screencast:** https://drive.google.com/file/d/1_1xv5c8ALVP3hmURoJxJDi6SwFQnArD8/view
+
+**Technology Stack:** CORDOVA / HTML / CSS / JAVASCRIPT / LARAVEL / MOODLE
+
+**Description:**
+
+The purpose of this project is to run the H5P activitites on the mobile in offline/online mode.
+
+We are aiming to run the H5P content in the offline mode.
+
+**Developer guide:**
+
+https://cordova.apache.org/docs/en/latest/
+
+**Setup Instructions:**
+
+https://github.com/ActiveLearningStudio/cordova-h5p-standalone/blob/main/README.md
+
+**Github repositories:**
+
+https://github.com/ActiveLearningStudio/cordova-h5p-standalone/tree/offline-mode
+
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects/3)** ✨
+
+✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+
+## 3. BUILD NEW H5P ACTIVITIES
 
 ![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/image1.png)
 
@@ -80,7 +119,10 @@ https://github.com/ActiveLearningStudio/h5p-phet-collision-lab
 https://github.com/ActiveLearningStudio/h5p-phet-circuit-construction-kit-dc
 
 
-✨ **[Contributing to Curriki](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects/3)** ✨
+
+✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+
 
 <!--
 **NextGenOER/NextGenOER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

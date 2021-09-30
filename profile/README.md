@@ -10,7 +10,7 @@ Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s
 
 ## 1. IMPROVE PUBLIC BROWSE/SEARCH
 
-![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/image2.png)
+![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/openlearnx.jpg)
 
 **Description:** Search for projects, playlists and activities having indexing approved and public visibility
 
@@ -36,8 +36,38 @@ Frontend - https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-cl
 
 ✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
 
+## 2. RUN H5P ACTIVITIES ON MOBILE
 
-## 2. BUILD NEW H5P ACTIVITIES
+![Screenshot_2021-09-30-14-57-08-565_com example leo](https://user-images.githubusercontent.com/7965442/135426810-ce122762-857a-4f75-b6ae-3eeab9c00f26.jpg)
+
+
+**Screencast:** https://drive.google.com/file/d/1_1xv5c8ALVP3hmURoJxJDi6SwFQnArD8/view
+
+**Technology Stack:** CORDOVA / HTML / CSS / JAVASCRIPT / LARAVEL / MOODLE
+
+**Description:**
+
+The purpose of this project is to run the H5P activitites on the mobile in offline/online mode.
+
+We are aiming to run the H5P content in the offline mode.
+
+**Developer guide:**
+
+https://cordova.apache.org/docs/en/latest/
+
+**Setup Instructions:**
+
+https://github.com/ActiveLearningStudio/cordova-h5p-standalone/blob/main/README.md
+
+**Github repositories:**
+
+https://github.com/ActiveLearningStudio/cordova-h5p-standalone/tree/offline-mode
+
+✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects/3)** ✨
+
+✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
+
+## 3. BUILD NEW H5P ACTIVITIES
 
 ![h5p-content-sample](https://github.com/ActiveLearningStudio/.github/blob/main/images/image1.png)
 
@@ -92,33 +122,6 @@ https://github.com/ActiveLearningStudio/h5p-phet-circuit-construction-kit-dc
 ✨ **[Projects to contribute](https://github.com/orgs/ActiveLearningStudio/projects/3)** ✨
 
 ✨ **[How to contribute ?](https://github.com/ActiveLearningStudio/.github/blob/main/CONTRIBUTING.md)** ✨
-
-## 3. RUN H5P ACTIVITIES ON MOBILE
-
-![Screenshot_2021-09-30-14-57-08-565_com example leo](https://user-images.githubusercontent.com/7965442/135426810-ce122762-857a-4f75-b6ae-3eeab9c00f26.jpg)
-
-
-**Screencast:** https://drive.google.com/file/d/1_1xv5c8ALVP3hmURoJxJDi6SwFQnArD8/view
-
-**Technology Stack:** CORDOVA / HTML / CSS / JAVASCRIPT / LARAVEL / MOODLE
-
-**Description:**
-
-The purpose of this project is to run the H5P activitites on the mobile in offline/online mode.
-
-We are aiming to run the H5P content in the offline mode.
-
-**Developer guide:**
-
-https://cordova.apache.org/docs/en/latest/
-
-**Setup Instructions:**
-
-https://github.com/ActiveLearningStudio/cordova-h5p-standalone/blob/main/README.md
-
-**Github repositories:**
-
-https://github.com/ActiveLearningStudio/cordova-h5p-standalone/tree/offline-mode
 
 
 <!--
