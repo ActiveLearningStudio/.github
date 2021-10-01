@@ -24,4 +24,4 @@ Never made an open source contribution before? Wondering how contributions work 
 14. Celebrate your success after your pull request is merged!
 
 ## Where can I go for help?
-If you need help, you can ask questions on developer@curriki.org.
+If you need help join us on Slack "Open Source Day - GHC 2021" and connect us on #openeducation-2021 channel. You can also ask questions on developer@curriki.org.
