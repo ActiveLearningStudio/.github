@@ -40,6 +40,8 @@ Frontend - https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-cl
 
 ![mobile-app-1](https://github.com/ActiveLearningStudio/.github/blob/main/images/03.png)
 ![mobile-app-2](https://github.com/ActiveLearningStudio/.github/blob/main/images/06.png)
+![mobile-app-3](https://github.com/ActiveLearningStudio/.github/blob/main/images/17.png)
+![mobile-app-4](https://github.com/ActiveLearningStudio/.github/blob/main/images/18.png)
 
 
 **Screencast:** https://drive.google.com/file/d/1_1xv5c8ALVP3hmURoJxJDi6SwFQnArD8/view
