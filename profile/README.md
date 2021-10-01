@@ -1,4 +1,4 @@
-# WELCOME OPEN SOURCE DAY PARTICPANTS! 👋
+# WELCOME OPEN SOURCE DAY PARTICIPANTS! 👋
 
 Project #OPENLEARNX is an ambitious joint effort between Curriki and Red Hat’s Team 19 project. The project leverages open source technology developed by the non-profit edtech Curriki to enable the authoring, distribution and delivery of interactive open educational resources (OER) across the globe.
 
