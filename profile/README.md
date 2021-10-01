@@ -38,7 +38,8 @@ Frontend - https://github.com/ActiveLearningStudio/ActiveLearningStudio-react-cl
 
 ## 2. RUN H5P ACTIVITIES ON MOBILE
 
-![Screenshot_2021-09-30-14-57-08-565_com example leo](https://user-images.githubusercontent.com/7965442/135426810-ce122762-857a-4f75-b6ae-3eeab9c00f26.jpg)
+![mobile-app-1](https://github.com/ActiveLearningStudio/.github/blob/main/images/03.png)
+![mobile-app-2](https://github.com/ActiveLearningStudio/.github/blob/main/images/06.png)
 
 
 **Screencast:** https://drive.google.com/file/d/1_1xv5c8ALVP3hmURoJxJDi6SwFQnArD8/view
